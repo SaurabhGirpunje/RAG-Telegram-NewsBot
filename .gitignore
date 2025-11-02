@@ -1,0 +1,35 @@
+# Environment
+.env
+ragEnv/
+__pycache__/
+*.pyc
+
+# Data
+data/chroma/
+data/cache.json
+data/*.db
+cache.json
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# VSCode settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+#utils
+utils/__pycache__/
+utils/*.pyc
+utils/temp/
+utils/*.log
+utils/cache.json
+
+.DS_Store
+
+.log
